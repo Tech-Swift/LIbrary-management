@@ -46,7 +46,7 @@ SmartLibrary/
 │
 ├── smart_library_schema.sql    # Contains all CREATE TABLE statements
 ├── README.md                   # This file
-└── ERD.png                     # (Optional) ERD image file
+└── ERD.png                     # ERD image file
 ```
 
 ---
