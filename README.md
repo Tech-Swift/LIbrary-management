@@ -35,7 +35,7 @@ mysql -u your_username -p < smart_library_schema.sql
 
 ## 📷 ERD Screenshot or Link
 
-You can view the Entity-Relationship Diagram (ERD) for the system [here](https://dbdiagram.io/d/SmartLibrary-ERD-example). *(Replace this link with your actual ERD image or URL)*
+You can view the Entity-Relationship Diagram (ERD) for the system at the ERD.png file.
 
 ---
 
